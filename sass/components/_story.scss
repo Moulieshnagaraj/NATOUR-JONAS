@@ -12,7 +12,7 @@
   backface-visibility: hidden;
 
   @include respond(tab-port) {
-    width: 113%; // 115%
+    width: 100%; // 115%
     padding: 4rem;
     padding-left: 5rem;
     margin-left: -4rem;
