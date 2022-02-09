@@ -904,9 +904,9 @@ body {
   backface-visibility: hidden; }
   @media only screen and (max-width: 56.25em) {
     .story {
-      width: 115%;
+      width: 100%;
       padding: 4rem;
-      padding-left: 6rem; } }
+      padding-left: 5rem; } }
   @media only screen and (max-width: 37.5em) {
     .story {
       transform: skewX(0); } }
